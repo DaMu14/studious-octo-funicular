@@ -9,7 +9,7 @@ Ich habe gelernt, wie man einen doppeltern Around the world macht.
 
 Zuerst habe ich den einfache Around the World, also nur einmal um den Ball, geübt. Als ich das richtig gut konnte habe ich angefangen den doppelten Around the World zu üben. Für das habe ich zuerst den einfachen Around the World geübt und bei der zweiten Umdrehung habe ich den Ball auf den Boden aufkommenlassen. Das habe ich solange geübt bis ich es einigermassen machen konnte. Anschliessend habe ich zwei umdrehungen versucht und es tatsächlich geschafft. 
 
-![Video](https://github.com/DaMu14/studious-octo-funicular/blob/main/ezgif-2-5ad87bb840.gif?raw=true)
+[![Video](https://github.com/DaMu14/studious-octo-funicular/blob/main/ezgif-2-5ad87bb840.gif?raw=true)](https://youtu.be/TTKoFAHiwg8)
 
 auf das Bild klicken um das Video zu wiedergeben
 
