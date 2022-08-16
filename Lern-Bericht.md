@@ -11,4 +11,12 @@ Zuerst habe ich den einfache Around the World, also nur einmal um den Ball, geü
 
 [![Video](https://user-images.githubusercontent.com/110892840/184823504-bf112ca4-3ae2-4def-ac8c-43ceef0cb8d7.png)](https://youtu.be/TTKoFAHiwg8)
 
-auf den Link klicken um das Video zu wiedergeben
+auf das Bild klicken um das Video zu wiedergeben
+
+Verifikation
+
+Dieses Video hat sehr geholfen um den doppelten Around the World zu üben
+
+👍 Ich habe mein Ziel erreicht und deshalb ist es gut gelaufen
+
+👎 Es brauchte sehr lange Zeit und bin oft umgefallen.
